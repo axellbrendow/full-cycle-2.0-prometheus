@@ -1,6 +1,6 @@
 # full-cycle-2.0-prometheus
 
-Files I produced during the "Observability / Prometheus" classes of my [Microservices Full Cycle 2.0 course (pt-br)](https://drive.google.com/file/d/1MdN-qK_8Pfg6YI3TSfSa5_2-FHmqGxEP/view?usp=sharing).
+Files I produced during the "Observability / Prometheus" classes of my [Microservices Full Cycle 3.0 course (pt-br)](https://drive.google.com/file/d/1bJnFxQPKgSsI30sCvW-KzYK4V5JWzgSs/view?usp=share_link).
 
 ## First steps
 
